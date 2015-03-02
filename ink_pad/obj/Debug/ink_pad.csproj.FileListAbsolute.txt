@@ -1,0 +1,13 @@
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\MainWindow.baml
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\MainWindow.g.cs
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\App.g.cs
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\ink_pad_MarkupCompile.cache
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\ink_pad.g.resources
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\ink_pad.Properties.Resources.resources
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\ink_pad.csproj.GenerateResource.Cache
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\ink_pad.csprojResolveAssemblyReference.cache
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\bin\Debug\ink_pad.exe.config
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\bin\Debug\ink_pad.exe
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\bin\Debug\ink_pad.pdb
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\ink_pad.exe
+c:\users\valeriy1992\documents\visual studio 2012\Projects\ink_pad\ink_pad\obj\Debug\ink_pad.pdb
